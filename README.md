@@ -1,2 +1,2 @@
-# Ennakoi.fi-web-abuser
-Automaattinen täyttö ennakoi.fi sivustoon
+#web-abuser
+Automaattinen täyttö erääseen sivustoon
